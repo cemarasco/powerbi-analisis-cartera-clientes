@@ -1,0 +1,101 @@
+Cliente,Fecha,Fecha Vencimiento,Monto Factura,Monto Pagado,Estado,Tipo Cliente,Región
+Empresa F,2025-03-17,2025-06-15,355073,234586,Vencido,Corporativo,Buenos Aires
+Empresa E,2025-05-02,2025-07-31,429981,265966,Vencido,Mayorista,Mendoza
+Empresa A,2025-05-13,2025-06-12,324505,0,Vencido,Minorista,Santa Fe
+Empresa J,2025-04-10,2025-06-09,458326,304123,Vencido,Mayorista,Buenos Aires
+Empresa B,2025-03-17,2025-06-15,400019,0,Vencido,Corporativo,Buenos Aires
+Empresa F,2025-12-16,2026-01-15,456662,0,Vencido,Corporativo,Santa Fe
+Empresa E,2025-11-13,2026-02-11,434470,0,Vencido,Minorista,Buenos Aires
+Empresa E,2025-09-06,2025-12-05,215406,215406,Pagado,Minorista,Mendoza
+Empresa G,2025-01-25,2025-02-24,255886,138409,Vencido,Corporativo,Córdoba
+Empresa G,2025-12-25,2026-02-23,64517,64517,Pagado,Minorista,Córdoba
+Empresa J,2025-09-16,2025-12-15,69529,0,Vencido,Mayorista,Córdoba
+Empresa F,2025-06-18,2025-07-18,377997,0,Vencido,Mayorista,Santa Fe
+Empresa E,2025-09-16,2025-12-15,236777,236777,Pagado,Minorista,Córdoba
+Empresa C,2025-04-15,2025-05-15,327788,327788,Pagado,Corporativo,Buenos Aires
+Empresa F,2025-07-18,2025-10-16,285133,35053,Vencido,Minorista,Córdoba
+Empresa E,2025-08-26,2025-09-25,163043,163043,Pagado,Mayorista,Buenos Aires
+Empresa E,2025-08-26,2025-10-25,259521,138102,Vencido,Minorista,Córdoba
+Empresa E,2025-04-21,2025-06-20,197865,77825,Vencido,Mayorista,Buenos Aires
+Empresa C,2025-01-14,2025-04-14,125987,60141,Vencido,Minorista,Córdoba
+Empresa I,2025-10-25,2025-12-24,88241,88241,Pagado,Corporativo,Santa Fe
+Empresa B,2025-07-19,2025-08-18,321691,105616,Vencido,Corporativo,Córdoba
+Empresa A,2025-06-07,2025-08-06,147831,40367,Vencido,Corporativo,Mendoza
+Empresa J,2025-08-06,2025-10-05,372374,0,Vencido,Minorista,Buenos Aires
+Empresa F,2025-02-28,2025-05-29,312368,203916,Vencido,Mayorista,Córdoba
+Empresa D,2025-09-23,2025-12-22,331588,91152,Vencido,Corporativo,Córdoba
+Empresa E,2025-11-23,2026-02-21,488973,0,Vencido,Corporativo,Mendoza
+Empresa E,2025-06-01,2025-07-31,373868,373868,Pagado,Minorista,Mendoza
+Empresa I,2025-11-03,2025-12-03,88439,23662,Vencido,Corporativo,Buenos Aires
+Empresa G,2025-05-18,2025-08-16,154774,154774,Pagado,Corporativo,Mendoza
+Empresa A,2025-05-11,2025-07-10,422377,290124,Vencido,Mayorista,Mendoza
+Empresa H,2025-04-06,2025-05-06,246317,246317,Pagado,Minorista,Córdoba
+Empresa F,2025-06-08,2025-08-07,84975,0,Vencido,Minorista,Mendoza
+Empresa F,2025-08-21,2025-11-19,373254,373254,Pagado,Corporativo,Córdoba
+Empresa C,2025-07-19,2025-08-18,168454,0,Vencido,Mayorista,Santa Fe
+Empresa C,2025-11-07,2025-12-07,285084,285084,Pagado,Mayorista,Santa Fe
+Empresa J,2025-05-22,2025-07-21,336379,336379,Pagado,Corporativo,Buenos Aires
+Empresa J,2025-08-17,2025-10-16,362536,0,Vencido,Minorista,Santa Fe
+Empresa I,2025-05-16,2025-06-15,415999,0,Vencido,Minorista,Mendoza
+Empresa A,2025-10-25,2025-11-24,124961,0,Vencido,Corporativo,Mendoza
+Empresa H,2025-06-15,2025-08-14,358463,31454,Vencido,Mayorista,Santa Fe
+Empresa B,2025-10-08,2025-11-07,369863,107032,Vencido,Corporativo,Mendoza
+Empresa I,2025-02-08,2025-05-09,370721,133496,Vencido,Minorista,Buenos Aires
+Empresa B,2025-07-04,2025-10-02,485737,485577,Vencido,Corporativo,Buenos Aires
+Empresa E,2025-04-27,2025-07-26,167209,167209,Pagado,Corporativo,Mendoza
+Empresa I,2025-05-17,2025-07-16,213151,130180,Vencido,Minorista,Córdoba
+Empresa J,2025-09-15,2025-12-14,334589,334589,Pagado,Corporativo,Buenos Aires
+Empresa C,2025-10-24,2026-01-22,437139,0,Vencido,Mayorista,Buenos Aires
+Empresa B,2025-07-13,2025-10-11,326736,326736,Pagado,Mayorista,Santa Fe
+Empresa J,2025-04-07,2025-07-06,354388,0,Vencido,Corporativo,Buenos Aires
+Empresa J,2025-06-04,2025-08-03,244946,244946,Pagado,Corporativo,Buenos Aires
+Empresa C,2025-04-14,2025-06-13,135289,0,Vencido,Corporativo,Córdoba
+Empresa D,2025-06-05,2025-09-03,152394,152394,Pagado,Corporativo,Mendoza
+Empresa A,2025-09-11,2025-12-10,190112,190112,Pagado,Mayorista,Córdoba
+Empresa G,2025-08-06,2025-11-04,154210,0,Vencido,Corporativo,Buenos Aires
+Empresa F,2025-05-28,2025-06-27,359159,359159,Pagado,Corporativo,Mendoza
+Empresa I,2025-06-23,2025-09-21,167582,164498,Vencido,Minorista,Santa Fe
+Empresa J,2025-06-06,2025-09-04,80051,80051,Pagado,Mayorista,Santa Fe
+Empresa H,2025-09-09,2025-11-08,456576,337168,Vencido,Minorista,Córdoba
+Empresa I,2025-12-10,2026-01-09,491073,491073,Pagado,Minorista,Santa Fe
+Empresa C,2025-08-07,2025-11-05,296049,0,Vencido,Minorista,Santa Fe
+Empresa I,2025-03-19,2025-06-17,330732,330732,Pagado,Mayorista,Mendoza
+Empresa A,2025-04-19,2025-07-18,83202,83202,Pagado,Minorista,Santa Fe
+Empresa C,2025-08-15,2025-09-14,141364,62474,Vencido,Mayorista,Mendoza
+Empresa J,2025-04-16,2025-05-16,108873,0,Vencido,Mayorista,Buenos Aires
+Empresa I,2025-10-24,2025-11-23,292052,292052,Pagado,Mayorista,Santa Fe
+Empresa I,2025-09-24,2025-10-24,152651,24363,Vencido,Minorista,Santa Fe
+Empresa B,2025-10-24,2025-11-23,390940,0,Vencido,Corporativo,Mendoza
+Empresa D,2025-01-27,2025-02-26,264986,0,Vencido,Minorista,Buenos Aires
+Empresa D,2025-10-19,2026-01-17,462418,196452,Vencido,Mayorista,Santa Fe
+Empresa J,2025-02-21,2025-05-22,237380,237380,Pagado,Corporativo,Mendoza
+Empresa B,2025-09-11,2025-11-10,213144,96862,Vencido,Mayorista,Buenos Aires
+Empresa E,2025-03-15,2025-06-13,389443,389443,Pagado,Minorista,Córdoba
+Empresa A,2025-11-13,2026-01-12,169624,0,Vencido,Mayorista,Santa Fe
+Empresa G,2025-06-06,2025-09-04,457354,0,Vencido,Minorista,Córdoba
+Empresa D,2025-09-25,2025-11-24,315880,138263,Vencido,Corporativo,Buenos Aires
+Empresa D,2025-04-25,2025-06-24,356602,356602,Pagado,Minorista,Mendoza
+Empresa C,2025-02-05,2025-03-07,160991,51882,Vencido,Corporativo,Santa Fe
+Empresa F,2025-09-21,2025-10-21,159477,159477,Pagado,Minorista,Buenos Aires
+Empresa E,2025-09-24,2025-12-23,284278,0,Vencido,Minorista,Buenos Aires
+Empresa C,2025-05-17,2025-08-15,76686,0,Vencido,Minorista,Mendoza
+Empresa F,2025-05-10,2025-07-09,444232,444232,Pagado,Mayorista,Córdoba
+Empresa C,2025-08-19,2025-09-18,91264,91264,Pagado,Mayorista,Mendoza
+Empresa J,2025-01-26,2025-03-27,201157,201157,Pagado,Corporativo,Santa Fe
+Empresa J,2025-08-10,2025-10-09,234116,117728,Vencido,Minorista,Santa Fe
+Empresa C,2025-12-25,2026-01-24,243590,169926,Vencido,Mayorista,Santa Fe
+Empresa F,2025-11-16,2026-01-15,399866,0,Vencido,Corporativo,Mendoza
+Empresa C,2025-03-13,2025-04-12,451599,451599,Pagado,Mayorista,Santa Fe
+Empresa I,2025-02-12,2025-04-13,286189,286189,Pagado,Minorista,Buenos Aires
+Empresa H,2025-07-07,2025-08-06,451064,0,Vencido,Mayorista,Santa Fe
+Empresa F,2025-12-03,2026-02-01,98952,0,Vencido,Corporativo,Mendoza
+Empresa A,2025-03-07,2025-04-06,414068,366170,Vencido,Mayorista,Santa Fe
+Empresa E,2025-01-14,2025-03-15,250190,0,Vencido,Corporativo,Córdoba
+Empresa A,2025-04-18,2025-07-17,391332,391332,Pagado,Corporativo,Santa Fe
+Empresa H,2025-09-05,2025-12-04,399765,278713,Vencido,Corporativo,Buenos Aires
+Empresa H,2025-07-18,2025-08-17,102006,102006,Pagado,Mayorista,Santa Fe
+Empresa E,2025-02-02,2025-03-04,492956,279647,Vencido,Mayorista,Mendoza
+Empresa D,2025-02-18,2025-04-19,276519,0,Vencido,Minorista,Córdoba
+Empresa J,2025-12-12,2026-02-10,234963,234963,Pagado,Mayorista,Buenos Aires
+Empresa E,2025-12-07,2026-03-07,246572,246572,Pagado,Minorista,Córdoba
+Empresa J,2025-05-12,2025-07-11,367022,367022,Pagado,Corporativo,Mendoza
